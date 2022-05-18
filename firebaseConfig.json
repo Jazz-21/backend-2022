@@ -1,0 +1,10 @@
+
+{
+    "apiKey": "AIzaSyAEDaNCoxtkJ13w3dYeEigD2o07y0yBegk",
+    "authDomain": "jaya-backend-project.firebaseapp.com",
+    "projectId": "jaya-backend-project",
+    "storageBucket": "jaya-backend-project.appspot.com",
+    "messagingSenderId": "567974943762",
+    "databaseURL":"https://jaya-backend-project-default-rtdb.firebaseio.com/",
+    "appId": "1:567974943762:web:b36bdbeddf7f901dad4ccb"
+  }
